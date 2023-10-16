@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Данные из ветки main после объявления anotherbranch
-=======
 Данные из ветки anotherBranch
->>>>>>> anotherBranch
